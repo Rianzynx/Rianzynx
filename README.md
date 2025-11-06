@@ -16,12 +16,6 @@ My name is Rian and I'm a software developer from 🇧🇷 **Brazil**.
 <p>&nbsp;</p> 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=48&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark" />
-</div>
-
-<p>&nbsp;</p> 
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rianzynx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="250" alt="languages graph" />
 </div>
 
@@ -53,7 +47,3 @@ My name is Rian and I'm a software developer from 🇧🇷 **Brazil**.
 
 <p>&nbsp;</p> 
 
-<div align="center">
-  <img  src="https://capsule-render.vercel.app/api?type=shark&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark" />
-</div>
-<p>&nbsp;</p>
