@@ -5,7 +5,7 @@ My name is Rian and I'm a software developer from 🇧🇷 **Brazil**.
 ## About me
 
 📚 I'm currently learning **English** and **React** 🐳  
-💻 Focused on **Java (Spring Boot, Spring Data, Spring Security, Hibernate)**  
+💻 Focused on **Java (Spring Boot, Spring Data, Spring Security)**  
 🎯 Dedicated to developing efficient, modern, and scalable applications.
 
 
