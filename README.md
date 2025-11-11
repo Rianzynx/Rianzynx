@@ -41,9 +41,6 @@ My name is Rian and I'm a software developer from 🇧🇷 **Brazil**.
 
 <p>&nbsp;</p> 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rianzynx.Rianzynx&" />
-</div>
 
 <p>&nbsp;</p> 
 
